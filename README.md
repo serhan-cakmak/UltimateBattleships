@@ -1,4 +1,4 @@
-Ultimate Battleships (100 points)
+Ultimate Battleships
 
 Please read important information first.
 Description
